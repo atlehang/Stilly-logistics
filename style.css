@@ -1,0 +1,25 @@
+body {
+  background-image: linear-gradient(to left, rgba(255,0,0,0.3), rgba(255,0,0,0)), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTBYsdtSDP-AOEYd92rpBdisNvqfVQTJXk_lYekxsJqOhGhvZ5Zw");
+  background-position: center;
+  background-repeat:repeat-y;
+}
+
+.one {
+  font-size: 200px;
+  color: #222823;
+  text-align: center;
+  margin-bottom: 0px;
+  text-shadow: 4px 4px grey;
+  font-family: 'Righteous', cursive;
+
+
+}
+.two {
+  font-size: 100px;
+  text-align: center;
+  color: red;
+  margin-top: 0px;
+  text-shadow: 2px 2px white;
+  font-family: 'Righteous', cursive;
+font-family: 'Abril Fatface', cursive;
+}
